@@ -5,10 +5,6 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   font-family: 'Roboto', sans-serif;
   background: #233662;
@@ -172,8 +168,8 @@ button:hover {
   text-align: left;
   font-weight: 600;
   line-height: 3ch;
- margin-bottom: 2em;
- 
+  margin-bottom: 2em;
+
   color: #bdc4d3;
 }
 
@@ -351,7 +347,7 @@ form textarea:focus {
 .footer h1 span {
   color: #63fdd9;
 }
-.footer p{
+
+.footer p {
   text-align: center;
 }
-
